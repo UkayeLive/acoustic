@@ -1,0 +1,7 @@
+{
+  "death.attack.sonic_damage": "%1$s was obliterated by a sonic blast",
+  "death.attack.sonic_damage.item": "%1$s was obliterated by a sonic blast whilst trying to escape %2$s wielding %3$s",
+  "death.attack.sonic_damage.player": "%1$s was obliterated by a sonic blast whilst trying to escape %2$s",
+  "item.acoustic.sonic_arrow": "Sonic Arrow",
+  "item.acoustic.reinforced_crossbow": "Reinforced Crossbow"
+}

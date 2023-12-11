@@ -1,0 +1,6 @@
+{
+    "layer0": "acoustic:item/reinforced_crossbow",
+    "textures": {
+        "layer0": "acoustic:item/crossbow_firework"
+    }
+}
