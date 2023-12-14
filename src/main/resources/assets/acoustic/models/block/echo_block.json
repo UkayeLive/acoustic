@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "acoustic:block/echo_block"
+  }
+}
+

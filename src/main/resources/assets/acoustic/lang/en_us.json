@@ -1,7 +1,11 @@
 {
+  "block.acoustic.echo_block": "Echo Block",
   "death.attack.sonic_damage": "%1$s was obliterated by a sonic blast",
   "death.attack.sonic_damage.item": "%1$s was obliterated by a sonic blast whilst trying to escape %2$s wielding %3$s",
   "death.attack.sonic_damage.player": "%1$s was obliterated by a sonic blast whilst trying to escape %2$s",
+  "effect.acoustic.amplifying": "Amplifying",
   "item.acoustic.sonic_arrow": "Sonic Arrow",
-  "item.acoustic.reinforced_crossbow": "Reinforced Crossbow"
+  "item.acoustic.reinforced_crossbow": "Reinforced Crossbow",
+  "item.minecraft.potion.effect.amplifying": "Potion of Amplifying",
+  "itemGroup.acoustic.acoustic" : "Acoustic"
 }

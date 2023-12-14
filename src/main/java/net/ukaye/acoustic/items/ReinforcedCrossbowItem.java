@@ -2,7 +2,6 @@ package net.ukaye.acoustic.items;
 
 import net.minecraft.item.CrossbowItem;
 import net.minecraft.item.ItemStack;
-import net.ukaye.acoustic.items.SonicArrowItem;
 
 import java.util.function.Predicate;
 

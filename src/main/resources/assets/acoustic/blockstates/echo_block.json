@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "": { "model": "acoustic:block/echo_block"}
+  }
+}
